@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="imgs/Image.png"  />
+<img align="right" height="150" src="imgs/snake.svg"  />
 
 ###
 
