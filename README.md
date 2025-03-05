@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jo-Plus/Jo-Plus/output/snake.svg" alt="Snake animation" />
+<img src="imgs/snake.yml" alt="Snake animation" />
 
 ###
 
